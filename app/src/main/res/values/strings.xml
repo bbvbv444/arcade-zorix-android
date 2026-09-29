@@ -1,4 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ArcadeZorix</string>
-    <string name="website_url">https://arcadezorix.netlify.app</string>
+    <string name="website_url">https://arcadezorix-website.pages.dev/</string>
 </resources>
